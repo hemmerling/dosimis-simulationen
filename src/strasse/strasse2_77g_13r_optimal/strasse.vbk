@@ -1,0 +1,28 @@
+********************************************************************
+Endstatistik               Verteilung der Störungen und Pausen
+Materialfluss - System strasse
+Statistik zur Zeit            600.0 Min.(davon    0 Min. Vorlauf)
+********************************************************************
+MTBF : MeanTime Between Failure -- mittlere Funktionszeit
+MTTR : MeanTime To Repair       -- mittlere Stoerdauer
+MTTW : MeanTime To Wait         -- mittlere Wartezeit auf den Werker
+
+  1 Störung      Stoerung zufaellig
+Vorgaben :
+  MTBF  (fester Takt)                         Dauer         77.00 s
+  MTTR  (fester Takt)                         Dauer         13.00 s
+  MTTW  (zusaetzl. zur MTTR)                  Mittelwert     0.00 s
+....................................................................
+          Anzahl  minimaler  maximaler   Mittel- 
+           Werte  Wert[sec]  Wert[sec]  wert[sec]
+....................................................................
+  MTBF    401     77.00     77.00     77.00
+  MTTR    401     13.00     13.00     13.00
+....................................................................
+Verfuegbarkeit : 
+  ohne MTTW         :   85.56 %
+  incl. MTTW        :   85.56 %
+  in der Simulation :   85.56 %
+____________________________________________________________________
+
+

@@ -1,0 +1,12 @@
+********************************************************************
+Endstatistik               Verteilung der Störungen und Pausen
+Materialfluss - System strasse
+Statistik zur Zeit            600.0 Min.(davon    0 Min. Vorlauf)
+********************************************************************
+MTBF : MeanTime Between Failure -- mittlere Funktionszeit
+MTTR : MeanTime To Repair       -- mittlere Stoerdauer
+MTTW : MeanTime To Wait         -- mittlere Wartezeit auf den Werker
+********************************************************************
+
+Nr.   Name           MTBF[min]   MTTR[sec]   MTTW[sec]   theoAva    incMTTW    SimAva     Baustein          Anzahl  
+    1 Störung            0.58      55.00       0.00     38.89 %    38.89 %    38.89 %      AmpelKreuzung     3
