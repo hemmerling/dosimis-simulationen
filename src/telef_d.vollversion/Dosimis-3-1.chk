@@ -1,0 +1,143 @@
+Konsistenzcheck: Dosimis-3-1
+
+Mind. ein Eintrag muss <> KEINE Verteilung sein!
+Fehler in Liste der Generierungszeiten!
+Keine Objektliste angegeben
+Fehler in Quelle: 1/QUE_1
+
+Mind. ein Eintrag muss <> KEINE Verteilung sein!
+Fehler in Liste der Generierungszeiten!
+Keine Objektliste angegeben
+Fehler in Quelle: 2/QUE_2
+
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Es muß mindestens ein Weg definiert sein!
+Fehler in Komplex-Knoten: 3/KKN_3
+
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Es muß mindestens ein Weg definiert sein!
+Es sind nicht alle Eingänge von Baustein Nr. 4 definiert.
+Fehler in Komplex-Knoten: 4/KKN_4
+
+Länge [m] : Wert muß >  0 sein!
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Segmentlänge [m] : Wert muß >  0 sein!
+Fehler in Staustrecke: 5/SST_5
+
+Länge d.Objektweges [m] : : Wert muß >  0 sein!
+Länge d.Palettenweges [m] : : Wert muß >  0 sein!
+Geschw.d.Objekte [m/sec] : : Wert muß >  0 sein!
+Geschw.d.Paletten [m/sec] : : Wert muß >  0 sein!
+Es sind nicht alle Ausgänge von Baustein Nr. 8 definiert.
+Fehler in Palettierer: 8/PAL_8
+
+Länge d.Objektweges [m] : : Wert muß >  0 sein!
+Länge d.Palettenweges [m] : : Wert muß >  0 sein!
+Geschw.d.Objekte [m/sec] : : Wert muß >  0 sein!
+Geschw.d.Paletten [m/sec] : : Wert muß >  0 sein!
+Es sind nicht alle Ausgänge von Baustein Nr. 9 definiert.
+Fehler in Palettierer: 9/PAL_9
+
+Länge d.Objektweges [m] : : Wert muß >  0 sein!
+Länge d.Palettenweges [m] : : Wert muß >  0 sein!
+Geschw.d.Objekte [m/sec] : : Wert muß >  0 sein!
+Geschw.d.Paletten [m/sec] : : Wert muß >  0 sein!
+Es sind nicht alle Ausgänge von Baustein Nr. 10 definiert.
+Fehler in Palettierer: 10/PAL_10
+
+Länge d.Objektweges [m] : : Wert muß >  0 sein!
+Länge d.Palettenweges [m] : : Wert muß >  0 sein!
+Geschw.d.Objekte [m/sec] : : Wert muß >  0 sein!
+Geschw.d.Paletten [m/sec] : : Wert muß >  0 sein!
+Es sind nicht alle Ausgänge von Baustein Nr. 11 definiert.
+Fehler in Palettierer: 11/PAL_11
+
+Länge d.Objektweges [m] : : Wert muß >  0 sein!
+Länge d.Palettenweges [m] : : Wert muß >  0 sein!
+Geschw.d.Objekte [m/sec] : : Wert muß >  0 sein!
+Geschw.d.Paletten [m/sec] : : Wert muß >  0 sein!
+Es sind nicht alle Eingänge von Baustein Nr. 13 definiert.
+Fehler in Palettierer: 13/PAL_13
+
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Es muß mindestens ein Weg definiert sein!
+Es sind nicht alle Ausgänge von Baustein Nr. 14 definiert.
+Fehler in Komplex-Knoten: 14/KKN_14
+
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Es muß mindestens ein Weg definiert sein!
+Es sind nicht alle Ausgänge von Baustein Nr. 15 definiert.
+Fehler in Komplex-Knoten: 15/KKN_15
+
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Es muß mindestens ein Weg definiert sein!
+Es sind nicht alle Eingänge von Baustein Nr. 16 definiert.
+Fehler in Komplex-Knoten: 16/KKN_16
+
+Beladeweg [m] : : Wert muß >  0 sein!
+Beladegeschw. [m/sec] : : Wert muß >  0 sein!
+Entladeweg [m] : : Wert muß >  0 sein!
+Entladegeschw. [m/sec] : : Wert muß >  0 sein!
+Langsamfahrweg [m] : : Wert muß >  0 sein!
+Geschw. schnell [m/sec] : : Wert muß >  0 sein!
+Geschw. langsam [m/sec] : : Wert muß >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Verteilwagen:nicht genug Eingangspositionen
+Verteilwagen:nicht genug Ausgangspositionen
+Es sind nicht alle Eingänge von Baustein Nr. 17 definiert.
+Fehler in Verteilwagen: 17/VTW_17
+
+Beladeweg [m] : : Wert muß >  0 sein!
+Beladegeschw. [m/sec] : : Wert muß >  0 sein!
+Entladeweg [m] : : Wert muß >  0 sein!
+Entladegeschw. [m/sec] : : Wert muß >  0 sein!
+Langsamfahrweg [m] : : Wert muß >  0 sein!
+Geschw. schnell [m/sec] : : Wert muß >  0 sein!
+Geschw. langsam [m/sec] : : Wert muß >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Verteilwagen:nicht genug Eingangspositionen
+Verteilwagen:nicht genug Ausgangspositionen
+Es sind nicht alle Ausgänge von Baustein Nr. 18 definiert.
+Fehler in Verteilwagen: 18/VTW_18
+
+Länge [m] : Wert muß >  0 sein!
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Segmentlänge [m] : Wert muß >  0 sein!
+Fehler in Staustrecke: 19/SST_19
+
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Fehler in Bearbeitungsstation: 20/AST_20
+
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Es muß mindestens ein Weg definiert sein!
+Es sind nicht alle Eingänge von Baustein Nr. 21 definiert.
+Fehler in Komplex-Knoten: 21/KKN_21
+
+Mind. ein Eintrag muss <> KEINE Verteilung sein!
+Fehler in Senke: 22/SEN_22
+
+Mind. ein Eintrag muss <> KEINE Verteilung sein!
+Fehler in Senke: 23/SEN_23
+
+
+Entscheidungstabelle Parsercheck!
+
+
+Entscheidungstabelle Parsercheck Ende: 1
+
+
+Konsistenzcheck: Ende

@@ -1,0 +1,81 @@
+Konsistenzcheck: UndoMfs
+
+Mind. ein Eintrag muss <> KEINE Verteilung sein!
+Fehler in Liste der Generierungszeiten!
+Keine Objektliste angegeben
+Fehler in Quelle: 1/QUE_1
+
+Beladeweg [m] : : Wert muß >  0 sein!
+Beladegeschw. [m/sec] : : Wert muß >  0 sein!
+Entladeweg [m] : : Wert muß >  0 sein!
+Entladegeschw. [m/sec] : : Wert muß >  0 sein!
+Langsamfahrweg [m] : : Wert muß >  0 sein!
+Geschw. schnell [m/sec] : : Wert muß >  0 sein!
+Geschw. langsam [m/sec] : : Wert muß >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Verteilwagen:nicht genug Eingangspositionen
+Verteilwagen:nicht genug Ausgangspositionen
+Es sind nicht alle Eingänge von Baustein Nr. 2 definiert.
+Fehler in Verteilwagen: 2/VTW_2
+
+Länge [m] : Wert muß >  0 sein!
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Segmentlänge [m] : Wert muß >  0 sein!
+Fehler in Staustrecke: 3/SST_3
+
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Fehler in Bearbeitungsstation: 4/AST_4
+
+Länge [m] : Wert muß >  0 sein!
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Segmentlänge [m] : Wert muß >  0 sein!
+Fehler in Staustrecke: 5/SST_5
+
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Es muß mindestens ein Weg definiert sein!
+Es sind nicht alle Ausgänge von Baustein Nr. 7 definiert.
+Fehler in Komplex-Knoten: 7/KKN_7
+
+Länge [m] : Wert muß >  0 sein!
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Segmentlänge [m] : Wert muß >  0 sein!
+Fehler in Staustrecke: 8/SST_8
+
+Mind. ein Eintrag muss <> KEINE Verteilung sein!
+Fehler in Senke: 9/SEN_9
+
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Es muß mindestens ein Weg definiert sein!
+Es sind nicht alle Ausgänge von Baustein Nr. 10 definiert.
+Fehler in Komplex-Knoten: 10/KKN_10
+
+Geschwindigkeit [m/sec] : Wert muß >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Es muß mindestens ein Weg definiert sein!
+Es sind nicht alle Eingänge von Baustein Nr. 11 definiert.
+Fehler in Komplex-Knoten: 11/KKN_11
+
+Länge d.Objektweges [m] : : Wert muß >  0 sein!
+Länge d.Palettenweges [m] : : Wert muß >  0 sein!
+Geschw.d.Objekte [m/sec] : : Wert muß >  0 sein!
+Geschw.d.Paletten [m/sec] : : Wert muß >  0 sein!
+Es sind nicht alle Eingänge von Baustein Nr. 12 definiert.
+Fehler in Palettierer: 12/PAL_12
+
+Mind. ein Eintrag muss <> KEINE Verteilung sein!
+Fehler in Senke: 13/SEN_13
+
+
+Entscheidungstabelle Parsercheck!
+
+
+Entscheidungstabelle Parsercheck Ende: 1
+
+
+Konsistenzcheck: Ende

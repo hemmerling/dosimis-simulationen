@@ -1,0 +1,93 @@
+Konsistenzcheck: UndoMfs
+
+Mind. ein Eintrag muss <> KEINE Verteilung sein!
+Fehler in Liste der Generierungszeiten!
+Keine Objektliste angegeben
+Fehler in Quelle: 1/QUE_1
+
+Mind. ein Eintrag muss <> KEINE Verteilung sein!
+Fehler in Liste der Generierungszeiten!
+Keine Objektliste angegeben
+Es sind nicht alle Ausg‰nge von Baustein Nr. 2 definiert.
+Fehler in Quelle: 2/QUE_2
+
+Beladeweg [m] : : Wert muﬂ >  0 sein!
+Beladegeschw. [m/sec] : : Wert muﬂ >  0 sein!
+Entladeweg [m] : : Wert muﬂ >  0 sein!
+Entladegeschw. [m/sec] : : Wert muﬂ >  0 sein!
+Langsamfahrweg [m] : : Wert muﬂ >  0 sein!
+Geschw. schnell [m/sec] : : Wert muﬂ >  0 sein!
+Geschw. langsam [m/sec] : : Wert muﬂ >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Verteilwagen:nicht genug Eingangspositionen
+Verteilwagen:nicht genug Ausgangspositionen
+Es sind nicht alle Eing‰nge von Baustein Nr. 3 definiert.
+Fehler in Verteilwagen: 3/VTW_3
+
+Geschwindigkeit [m/sec] : Wert muﬂ >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Es muﬂ mindestens ein Weg definiert sein!
+Es sind nicht alle Ausg‰nge von Baustein Nr. 4 definiert.
+Fehler in Komplex-Knoten: 4/KKN_4
+
+Geschwindigkeit [m/sec] : Wert muﬂ >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Es muﬂ mindestens ein Weg definiert sein!
+Es sind nicht alle Ausg‰nge von Baustein Nr. 5 definiert.
+Fehler in Komplex-Knoten: 5/KKN_5
+
+L‰nge [m] : Wert muﬂ >  0 sein!
+Geschwindigkeit [m/sec] : Wert muﬂ >  0 sein!
+Segmentl‰nge [m] : Wert muﬂ >  0 sein!
+Fehler in Staustrecke: 6/SST_6
+
+L‰nge [m] : Wert muﬂ >  0 sein!
+Geschwindigkeit [m/sec] : Wert muﬂ >  0 sein!
+Segmentl‰nge [m] : Wert muﬂ >  0 sein!
+Fehler in Staustrecke: 7/SST_7
+
+Geschwindigkeit [m/sec] : Wert muﬂ >  0 sein!
+Es sind nicht alle Ausg‰nge von Baustein Nr. 8 definiert.
+Fehler in Bearbeitungsstation: 8/AST_8
+
+L‰nge d.Objektweges [m] : : Wert muﬂ >  0 sein!
+L‰nge d.Palettenweges [m] : : Wert muﬂ >  0 sein!
+Geschw.d.Objekte [m/sec] : : Wert muﬂ >  0 sein!
+Geschw.d.Paletten [m/sec] : : Wert muﬂ >  0 sein!
+Es sind nicht alle Eing‰nge von Baustein Nr. 9 definiert.
+Fehler in Palettierer: 9/PAL_9
+
+Beladeweg [m] : : Wert muﬂ >  0 sein!
+Beladegeschw. [m/sec] : : Wert muﬂ >  0 sein!
+Entladeweg [m] : : Wert muﬂ >  0 sein!
+Entladegeschw. [m/sec] : : Wert muﬂ >  0 sein!
+Langsamfahrweg [m] : : Wert muﬂ >  0 sein!
+Geschw. schnell [m/sec] : : Wert muﬂ >  0 sein!
+Geschw. langsam [m/sec] : : Wert muﬂ >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Verteilwagen:nicht genug Eingangspositionen
+Verteilwagen:nicht genug Ausgangspositionen
+Es sind nicht alle Eing‰nge von Baustein Nr. 10 definiert.
+Es sind nicht alle Ausg‰nge von Baustein Nr. 10 definiert.
+Fehler in Verteilwagen: 10/VTW_10
+
+Geschwindigkeit [m/sec] : Wert muﬂ >  0 sein!
+Kein Verteilstrategie definiert!
+Keine Vorfahrtstrategie definiert!
+Es muﬂ mindestens ein Weg definiert sein!
+Es sind nicht alle Eing‰nge von Baustein Nr. 11 definiert.
+Es sind nicht alle Ausg‰nge von Baustein Nr. 11 definiert.
+Fehler in Komplex-Knoten: 11/KKN_11
+
+
+Entscheidungstabelle Parsercheck!
+
+
+Entscheidungstabelle Parsercheck Ende: 1
+
+
+Konsistenzcheck: Ende
